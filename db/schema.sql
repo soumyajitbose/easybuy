@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS easy_to_buy;
+
+CREATE DATABASE easy_to_buy;
